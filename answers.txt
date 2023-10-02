@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is a repository that is not saved locally on your computer. Usually a local repository is used for collaboration between programmers such that everyone can push and pull their work to/from the remote repository from/to the local repository.
